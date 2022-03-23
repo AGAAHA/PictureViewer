@@ -1,0 +1,10 @@
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\МЕДВЕДЕВ22кс20\PictureViewer Medvedev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
